@@ -17,3 +17,13 @@ The World Health Organization (WHO) declared a Public Health Emergency of Intern
 
 dataset link for tableau - https://www.kaggle.com/code/josephassaker/covid-19-global-data-analysis-visualization/data?select=worldometer_coronavirus_summary_data.csv
 
+
+
+Tableau Dashboard-- 
+
+![Covid Data Analysis](https://user-images.githubusercontent.com/91587120/190849003-ff674bdd-614c-4869-92a8-bb29cacca619.png)
+
+
+
+
+
