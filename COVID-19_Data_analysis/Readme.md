@@ -11,7 +11,7 @@ The World Health Organization (WHO) declared a Public Health Emergency of Intern
 
 - In this project I will make different plots using tableau and then make a dashboard from the visuals
 
-- In this project we will get an idea about tha impact of coronavirus globally in terms of confirmed cases ,deaths reported as well as the active cases, We will also how india has been affected since the pandemic started and  dive into the different states to learn more about the covid 19 influence and the vaccination status
+- In this project we will get an idea about the impact of coronavirus globally in terms of confirmed cases ,deaths reported as well as the active cases, We will also how india has been affected since the pandemic started and  dive into the different states to learn more about the covid 19 influence and the vaccination status
 
 
 
