@@ -25,7 +25,7 @@ I use the object I created above
 Short_url.tinyurl.short()
 And inside this parantessis I pass 
 The long link variable I created before
->short_link = short_url.tinyurl.short(long_link)
+>short_link = short_url.tinyurl.short(long_url)
 
 Now that the programme is complete, we can create the short link.
 The next step is to print this quick link. I employ the print function for that.
