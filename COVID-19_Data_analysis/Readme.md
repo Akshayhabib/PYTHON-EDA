@@ -23,6 +23,8 @@ Tableau Dashboard--
 
 ![Covid Data Analysis](https://user-images.githubusercontent.com/91587120/190849003-ff674bdd-614c-4869-92a8-bb29cacca619.png)
 
+ Interact with DashBoard--  https://public.tableau.com/app/profile/akshay.shobhan.habib/viz/CovidDataAnalysis_16634033181980/CovidDataAnalysis
+
 
 
 
