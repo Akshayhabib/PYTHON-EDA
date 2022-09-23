@@ -1,4 +1,4 @@
-### What is Coronavirus Pandemic?
+## What is Coronavirus Pandemic?
 
 The COVID-19 pandemic, also known as the coronavirus pandemic, is an ongoing global pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
 
@@ -19,11 +19,22 @@ dataset link for tableau - https://www.kaggle.com/code/josephassaker/covid-19-gl
 
 
 
-Tableau Dashboard-- 
+##  Tableau Dashboard 1 -- STATEWISE ANALYSIS(INDIA)_
 
-![Covid Data Analysis](https://user-images.githubusercontent.com/91587120/190849003-ff674bdd-614c-4869-92a8-bb29cacca619.png)
+![Dashboard 1](https://user-images.githubusercontent.com/91587120/191911366-67940b6e-eb3c-4c9a-9533-282085bdcabe.png)
 
- Interact with DashBoard--  https://public.tableau.com/app/profile/akshay.shobhan.habib/viz/CovidDataAnalysis_16634033181980/CovidDataAnalysis
+
+ - Interact with DashBoard 1-- https://public.tableau.com/app/profile/akshay.shobhan.habib/viz/CovidDataAnalysisINDIA/Dashboard1
+ 
+ 
+ ##  Tableau Dashboard 2 -- GLOBAL ANALYSIS
+ 
+ ![Dashboard 1 (1)](https://user-images.githubusercontent.com/91587120/191911702-b9a505bf-3c10-48bc-aaf7-478794b7844a.png)
+ 
+ 
+ - Interact with DashBoard 2 -- https://public.tableau.com/app/profile/akshay.shobhan.habib/viz/CovidDataAnalysisGlobally/Dashboard1
+
+ 
 
 
 
